@@ -2,8 +2,8 @@
 
 Public support and privacy pages for Kamikaze’s Workout Timer. This repository contains only the website, not the iOS app source.
 
-- Support: https://bkulp819.github.io/kamikaze-support/
-- Privacy: https://bkulp819.github.io/kamikaze-support/privacy/
+- Support: https://bk8190.github.io/kamikaze-support/
+- Privacy: https://bk8190.github.io/kamikaze-support/privacy/
 - Contact: kamikazetimer@gmail.com
 
 ## Publish
